@@ -3,6 +3,7 @@ body{
 }
 #box{
 	width:100px;
+	height:80px;
 	background-color:#ff0000;
 	padding: 10px;
 	border-color: #00a2ff;
