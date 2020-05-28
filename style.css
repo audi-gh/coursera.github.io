@@ -5,8 +5,8 @@ h1{
 	text-align: center;
 }
 h2{
+    width: fit-content;
     text-align: right;
-    margin-left: 250px;
   
 }
 
