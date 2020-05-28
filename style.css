@@ -6,7 +6,9 @@ h1{
 }
 h2{
     text-align: right;
-    padding-left: 350px;
+    padding-left: 250px;
+    border: black;
+    border-width: 2px;
 }
 
 /* Create three equal columns that floats next to each other */
@@ -15,7 +17,9 @@ h2{
     width: 32%;
     padding: 5px;
     margin: 5px;
-	background-color:grey;
+    background-color:grey;
+    border: black;
+    border-width: 2px;
     height: 300px; /* Should be removed. Only for demonstration */
 }
 
