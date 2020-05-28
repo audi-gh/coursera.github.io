@@ -4,36 +4,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 /* Create three equal columns that floats next to each other */
 .column {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
+    content: "";
+    display: table;
+    clear: both;
 }
 </style>
 </head>
 <body>
 
-<h2>Responsive Three Column Layout</h2>
-<p>Resize the browser window to see the responsive effect (the columns will stack on top of each other instead of floating next to each other, when the screen is less than 600px wide).</p>
+<h2>Three Equal Columns</h2>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
@@ -51,4 +43,6 @@
 </div>
 
 </body>
+
+<!-- Mirrored from www.w3schools.com/howto/tryit.asp?filename=tryhow_css_three_columns by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jul 2018 02:10:23 GMT -->
 </html>
