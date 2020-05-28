@@ -5,9 +5,8 @@ h1{
 	text-align: center;
 }
 h2{
-    
     text-align: right;
-    background-clip: content-box;
+    margin-left: 250px;
   
 }
 
