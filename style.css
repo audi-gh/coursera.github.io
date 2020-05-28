@@ -5,7 +5,7 @@ h1{
 	text-align: center;
 }
 h2{
-    background-position: right;
+    background-position-x: right;
     text-align: right;
   
 }
