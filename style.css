@@ -8,12 +8,16 @@
     background-color: red;
 }
 #s{
-    background-color: pink;
+    background-color: yellow;
 }
 h1{
 	text-align: center;
 }
 h2{
+    padding: 0%;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: black;
     text-align: right;
     margin-left: 250px;
   
