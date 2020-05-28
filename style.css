@@ -1,6 +1,15 @@
 * {
     box-sizing: border-box;
 }
+#b{
+    background-color: pink;
+}
+#c{
+    background-color: red;
+}
+#s{
+    background-color: pink;
+}
 h1{
 	text-align: center;
 }
