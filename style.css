@@ -4,17 +4,17 @@
 #b{
     background-color: pink;
     border-width: 10px;
-    border-color: black;
+    border: 10px black;
 }
 #c{
     background-color: red;
     border-width: 10px;
-    border-color: black;
+    border: 10px black;
 }
 #j{
     background-color: yellow;
     border-width: 10px;
-    border-color: black;
+    border: 10px black;
 }
 h1{
 	text-align: center;
@@ -24,7 +24,7 @@ h2{
     margin-top: -5px;
     text-align: right;
     margin-left: 250px;
-    border: 10px black;
+    
   
 }
 
