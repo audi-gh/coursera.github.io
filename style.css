@@ -3,6 +3,8 @@
 }
 #b{
     background-color: pink;
+    border-width: 1px;
+    border-color: black;
   
     
 
@@ -10,11 +12,15 @@
 }
 #c{
     background-color: red;
+    border-width: 1px;
+    border-color: black;
     
     
 }
 #j{
     background-color: yellow;
+    border-width: 1px;
+    border-color: black;
 }
 h1{
 	text-align: center;
@@ -23,7 +29,7 @@ h1{
 h2{
     
     margin-top: -5px;
-    margin-right: -15px;
+    margin-right: -5px;
     text-align: right;
     margin-left: 250px;
    
