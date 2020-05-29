@@ -35,6 +35,7 @@ h2{
     padding: 5px;
     margin: 5px;
     background-color:grey;
+    border: 10px black;
     
     height: 300px; /* Should be removed. Only for demonstration */
 }
