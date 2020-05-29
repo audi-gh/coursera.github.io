@@ -19,6 +19,9 @@
 h1{
 	text-align: center;
 }
+.borderblack{
+    border: 10px black;
+}
 h2{
     
     margin-top: -5px;
