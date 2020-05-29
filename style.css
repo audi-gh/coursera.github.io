@@ -3,7 +3,8 @@
 }
 #b{
     background-color: pink;
-    border-width: 1px;
+    border-style: solid;
+    border-width: 2px;
     border-color: black;
   
     
@@ -12,14 +13,16 @@
 }
 #c{
     background-color: red;
-    border-width: 1px;
+    border-style: solid;
+    border-width: 2px;
     border-color: black;
     
     
 }
 #j{
     background-color: yellow;
-    border-width: 4px;
+    border-style: solid;
+    border-width: 2px;
     border-color: black;
 }
 h1{
